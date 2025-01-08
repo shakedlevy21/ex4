@@ -1,6 +1,5 @@
 /******************
 Name: Shaked Levy
-ID: 212730311
 Assignment: ex4
 *******************/
 #include <stdio.h>
